@@ -1,0 +1,13 @@
+.webcam-container {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  height: 100vh;
+}
+.content-container {
+  display: flex;
+  height: 600px;
+  justify-content: center;
+  background: black;
+}
